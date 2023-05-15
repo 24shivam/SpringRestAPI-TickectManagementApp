@@ -1,0 +1,19 @@
+{
+    "cid": 5,
+    "cname": "sachin",
+    "billAmount": 33.3,
+    "teamNames": [
+        "MI",
+        "CSK",
+        "RCB"
+    ],
+    "study": [
+        "10th",
+        "12th",
+        "Engineering"
+    ],
+    "company": {
+        "cname": "MI",
+        "clocaction": "Mumbai"
+    }
+}
